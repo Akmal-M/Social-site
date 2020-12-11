@@ -1,0 +1,29 @@
+.wrapper {
+    display: flex;
+    margin-top: 15px;
+}
+
+
+
+.item img  {
+    width:100%;
+}
+
+.avatar img {
+    width: 150px;
+}
+
+.inform {
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 18px;
+}
+
+.inform div {
+    margin-bottom: 25px;
+}
+
+
+
+
+

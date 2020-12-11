@@ -1,0 +1,26 @@
+.nav {
+    margin: 50px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.nav div {
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+
+}
+
+.nav a.active {
+    color: gold;
+
+}
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+
+
+.postWrapper {
+    display: flex;
+    margin-top: 25px;
+}
+
+
+
+
+.post img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+
+.postText {
+    padding: 10px;
+    font-size: 20px;
+}

@@ -1,0 +1,37 @@
+.paginator {
+    font-size: 20px;
+    color: #fed887;
+    margin: 40px;
+    padding-top: 50px;
+}
+
+.paginator span {
+    margin: 5px;
+    cursor: pointer;
+}
+
+.selectedPage {
+    border: 2px solid #ccc;
+    padding: 1px 1px 1px 7px;
+    background-color: #fedca0;
+    color: #fff;
+    border-radius: 20%;
+    font-weight: bold;
+}
+
+.pageNumber {
+}
+
+/*.paginator {*/
+/*    margin: 10px;*/
+/*}*/
+
+/*.pageNumber {*/
+/*    padding: 2px;*/
+/*    border: 1px solid grey;*/
+/*}*/
+
+/*.pageNumber.selectedPage {*/
+/*    font-weight: bold;*/
+/*    border-color: black;*/
+/*}*/

@@ -1,0 +1,13 @@
+.header img {
+    width: 120px;
+}
+
+.login {
+    float: right;
+}
+
+.login a {
+    list-style-type: none;
+    font-size: 25px;
+    margin: 25px;
+}
